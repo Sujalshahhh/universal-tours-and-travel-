@@ -1,5 +1,7 @@
 # 🌍 Universal - Tours & Travel Booking Website
 
+A dynamic Tours and Travel website built with HTML, CSS, JavaScript, PHP, and MySQL. This project offers seamless travel booking, destination browsing, and user-friendly interfaces—crafted for a smooth travel planning experience. Perfect for learning full-stack web development with real-world applications.
+
 A full-featured travel and tours website created using:
 - ✅ HTML, CSS & JavaScript (Frontend)
 - ✅ PHP (Backend Logic)
@@ -49,10 +51,6 @@ To run this project locally, you will need:
 
 ---
 
-## 📸 Screenshots (Optional)
-*Add some screenshots of your project UI here for better presentation.*
-
----
 
 ## 🧠 Author
 **Sujal Shah**  
