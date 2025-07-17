@@ -1,8 +1,5 @@
 # Hotel-Management-System
 
-## Tech Stack 
-
-```sh
 HTML
 CSS
 JAVASCRIPT
@@ -20,7 +17,21 @@ Open the link "http://localhost/Hotel-Management-System/"
 Now register and login
 ### login page
 
-```sh
-== Staff Login :
-Email : Admin@gmail.com
-Password : 1234
+flight booking user id
+
+	*passanger login*
+	Username: sujal s shah
+	Password: Sujal123@
+
+	*flight admin login *
+	Username: admin
+	Password: codeastro.com
+
+	*hotel staff login *
+	Username: admin@gmail.com
+	Password:1234
+
+	*hotel user login *
+	username: sujal shah
+	Email: shahsujal155@gmail.com
+	password: 112233
